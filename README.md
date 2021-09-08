@@ -1,5 +1,7 @@
 # Item-Based-Cosine-Similarity-for-Job-Recommendation
 
+![photo](https://miro.medium.com/max/1200/1*rTZvrFD258ZZwvGy7nyqDw.jpeg)
+
 This is a rating based approach to an implicit job recommendation competition that is arranged by Techcareer.net and launched on kaggle.
 
 You can reach the dataset used in this project by [Kaggle link](https://www.kaggle.com/c/datathon-guess-the-last-one) of the competition.
