@@ -1,4 +1,4 @@
-# Item-Based-Cosine-Similarity-for-Job-Recommendation
+# Item Based Cosine Similarity for Job Recommendation
 
 ![photo](https://miro.medium.com/max/1200/1*rTZvrFD258ZZwvGy7nyqDw.jpeg)
 
