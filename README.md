@@ -45,7 +45,7 @@ Discounted Cumulative Gain is a  measure of ranking quality. DCG measures the us
 
 ## Approach Used in This Project
 
-Altough the problem on its nature has an implicit feedback system (no rating, no negative or positive feedback), i think how suitable is a job to a person can be measurable. By using them, it is possible to create a rating for each job application that shows how relevant that job for the jobseeker. There are several aspects that are present in our data that can help us to build a rating system:
+Although the problem on its nature has an implicit feedback system (no rating, no negative or positive feedback), i think how suitable is a job to a person can be measurable. By using them, it is possible to create a rating for each job application that shows how relevant that job for the jobseeker. There are several aspects that are present in our data that can help us to build a rating system:
 - Job city can be same with the jobseekers city
 - The experience needed for that particular job can be satisfied by the jobseeker
 - The similarity of the job and the previous job of the jobseeker
